@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9939537484912314
+  lightness: 0.5366355052068966
+  rhythmicContrast: 0.3387146991684037
+  saturation: 0.10896021281543189
+cta: {}
+layout_spectrum: 0.300986
+name: Corfield
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.637335
