@@ -1,4 +1,20 @@
-analytics: {}
+name: Corfield
+favicon: null
+layout_spectrum: 0.300986
+typography_spectrum: 0.637335
+title: Corfield
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-73785932-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B8B0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.9939537484912314
   lightness: 0.5366355052068966
-  rhythmicContrast: 0.3387146991684037
   saturation: 0.10896021281543189
-cta: {}
-layout_spectrum: 0.300986
-name: Corfield
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.637335
+  rhythmicContrast: 0.3387146991684037
+purpose:
+  - name: null
+    item: null
+    url: null
