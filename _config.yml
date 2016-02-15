@@ -1,6 +1,6 @@
 name: Corfield
 favicon: null
-layout_spectrum: 0.50087
+layout_spectrum: 1
 typography_spectrum: 0.64094
 title: Corfield
 cta:
@@ -22,7 +22,7 @@ color:
     - '#808078'
     - '#000000'
     - '#000000'
-  brandStrength: 0.9939537484912314
+  brandStrength: 1
   lightness: 0.5366355052068966
   saturation: 0.10896021281543189
   rhythmicContrast: 0.3387146991684037
